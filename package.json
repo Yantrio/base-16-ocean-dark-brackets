@@ -1,15 +1,15 @@
 {	
-	"name": "yantrio.base-16-ocea-dark-theme",
+	"name": "yantrio.base-16-ocean-dark-theme",
    	"title": "My Ocean Dark Theme",
-    "description": "This theme is so dark that you'll need to wear shades!",
-    "homepage": "https://github.com/yantrio/brackets-ocean-dark-theme",
-    "version": "1.0.0",
-    "author": "Your Name <your@email> (http://your.url)",
-    "license": "MIT",
-    "theme": {
-        "file": "theme.less",
-        "dark": true,
-        "addModeClass": true
-    },
-    "keywords": ["theme"]
+    	"description": "A brackets theme based on base-16 ocean dark with a couple little tweaks",
+    	"homepage": "https://github.com/yantrio/base-16-ocean-dark-brackets",
+    	"version": "1.0.0",
+    	"author": "James Humphries <James@James-Humphries.co.uk> (http://yantr.io)",
+    	"license": "MIT",
+    	"theme": {
+        	"file": "theme.less",
+        	"dark": true,
+        	"addModeClass": true
+    	},
+    	"keywords": ["theme"]
 }
